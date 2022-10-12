@@ -2,7 +2,7 @@
 
 My name is Gabriel Houle, a **Full-Stack Web Developer** (specializing in **Angular** Applications). I attended school at **University of Washington - Tacoma** and received my Bachelor in Computer Science & Systems in 2016.
 
-I enjoy learning new systems and can get excited to dig into just about anything. I currently excited to learn how to use some DevOps Tools like Docker and Kubernetes. I am also working on writing an operating system from the boot-loader up.
+I enjoy learning new systems and can get excited to dig into just about anything. I am currently excited to learn how to use some DevOps Tools like Docker and Kubernetes. I am also working on writing an operating system from the boot-loader up.
 
 Outside of software I am a volunteer rock climbing and backcountry ski instructor/leader with the Mountaineers.
 
