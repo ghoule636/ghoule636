@@ -34,6 +34,8 @@ Outside of software I am a volunteer rock climbing and backcountry ski instructo
 ![i7-8th-gen](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![netBSD](https://img.shields.io/badge/NetBSD-FF6600?style=for-the-badge&logo=netbsd&logoColor=white)
+![vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 ## 🖥️ Work Workspace Setup
 
