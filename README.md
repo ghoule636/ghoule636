@@ -2,7 +2,7 @@
 
 My name is Gabriel Houle, a **Full-Stack Web Developer** (specializing in **Angular** Applications). I attended school at **University of Washington - Tacoma** and received my Bachelor in Computer Science & Systems in 2016.
 
-I enjoy learning new systems and can get excited to dig into just about anything. I am currently excited to learn some UNIX systems programming. I am also working on writing an operating system from the boot-loader up.
+I enjoy learning new systems and can get excited to dig into just about anything. I am currently learning a bit about game development in my personal time. Learning android and blazor systems for work.
 
 Outside of software I am a volunteer rock climbing and backcountry ski instructor/leader with the Seattle Mountaineers club.
 
@@ -23,6 +23,8 @@ Outside of software I am a volunteer rock climbing and backcountry ski instructo
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Back-end Development
 
@@ -31,7 +33,6 @@ Outside of software I am a volunteer rock climbing and backcountry ski instructo
 
 ## 🖥️ Personal Workspace Setup
 
-![i7-8th-gen](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![netBSD](https://img.shields.io/badge/NetBSD-FF6600?style=for-the-badge&logo=netbsd&logoColor=white)
@@ -39,6 +40,5 @@ Outside of software I am a volunteer rock climbing and backcountry ski instructo
 
 ## 🖥️ Work Workspace Setup
 
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![visual-studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)
